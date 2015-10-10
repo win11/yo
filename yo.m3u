@@ -225,10 +225,6 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Hogar Tv 
-http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Chef Tv 
-http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTINF:0,-Deportes-
 
@@ -271,12 +267,6 @@ http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:0 group-title="MUSICA",Virgin Tv ANGLO
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo Hits ANGLO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo Flow ANGLO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo Nashville ANGLO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA", RockenGuate Tv ANGLO
 http://198.178.123.170:1935/app/rockenguate/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Heavy Metal Tv ANGLO

@@ -128,14 +128,6 @@ http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal 2 Obregon 
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
-#EXTINF:-1 group-title="MEXICO",Sintesis Tv 
-http://wpc.3415.edgecastcdn.net/hls-live/203415/live/8amstmedia/8amstmedia813.m3u8
-#EXTINF:-1 group-title="MEXICO",Milenio Tv 
-http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
-#EXTINF:-1 group-title="MEXICO",Ingenio Tv 
-http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-#EXTINF:-1 group-title="MEXICO",Aprende 
-http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
 
 #EXTINF:0,-Colombia-
 
@@ -267,7 +259,4 @@ http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:0 group-title="MUSICA",Virgin Tv ANGLO
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1 group-title="MUSICA", RockenGuate Tv ANGLO
-http://198.178.123.170:1935/app/rockenguate/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Heavy Metal Tv ANGLO
-http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+

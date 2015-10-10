@@ -92,6 +92,19 @@ rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ARGENTINA",360 Tv 
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 
+#EXTINF:0,-Peru-
+
+#EXTINF:-1 group-title="PERU",Andina Tv 
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
+#EXTINF:-1 group-title="PERU",Latina Tv 
+https://www.youtube.com/watch?v=4zrg6XLcF2c
+#EXTINF:-1 group-title="PERU",America Tv 
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1 group-title="PERU", RBC Satelital 
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1 group-title="PERU", Peru Tv 
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+
 #EXTINF:0,-Mexico-
 
 #EXTINF:-1 group-title="MEXICO",Canal de las Estrellas 
@@ -156,16 +169,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 
 #EXTINF:0,-Latinos-
 
-#EXTINF:-1 group-title="LATINOS",Andina Tv PERU
-http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
-#EXTINF:-1 group-title="LATINOS",Latina Tv PERU
-https://www.youtube.com/watch?v=4zrg6XLcF2c
-#EXTINF:-1 group-title="LATINOS",America Tv PERU
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="LATINOS", RBC Satelital PERU
-rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 group-title="LATINOS", Peru Tv PERU
-http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",TVE 1 ESPAÑA
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="LATINOS",TVE 2 ESPAÑA
@@ -229,34 +232,33 @@ http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef
 
 #EXTINF:-1 group-title="MUSICA",Radio Carolina 
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Mi Musica SPAIN
+#EXTINF:-1 group-title="MUSICA",Mi Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Ultra Fiesta SPAIN
+#EXTINF:-1 group-title="MUSICA",Ultra Fiesta 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
-#EXTINF:-1 group-title="MUSICA",Tigo Musica SPAIN
+#EXTINF:-1 group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Urban Music Tv SPAIN
+#EXTINF:-1 group-title="MUSICA",Urban Music Tv 
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Cantinazo SPAIN
+#EXTINF:-1 group-title="MUSICA",Cantinazo 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Heart Tv ANGLO
+#EXTINF:-1 group-title="MUSICA",Heart Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="MUSICA",Europa plus TV ANGLO
+#EXTINF:-1 group-title="MUSICA",Europa plus TV 
 http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Dream ANGLO
+#EXTINF:-1 group-title="MUSICA",Dream 
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Best Music Tv 
 rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:-1 group-title="MUSICA",Capital Tv ANGLO
+#EXTINF:-1 group-title="MUSICA",Capital Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:-1 group-title="MUSICA",Ibiza ANGLO
+#EXTINF:-1 group-title="MUSICA",Ibiza 
 http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 group-title="MUSICA",Amazing Tv ANGLO
+#EXTINF:-1 group-title="MUSICA",Amazing Tv 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1 group-title="MUSICA",Film on Tv ANGLO
+#EXTINF:-1 group-title="MUSICA",Film on Tv 
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
-#EXTINF:0 group-title="MUSICA",Musica SI ANGLO
+#EXTINF:0 group-title="MUSICA",Musica SI 
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:0 group-title="MUSICA",Virgin Tv ANGLO
+#EXTINF:0 group-title="MUSICA",Virgin Tv 
 http://wow01.105.net/live/virgin1/.m3u8
-

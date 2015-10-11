@@ -124,26 +124,20 @@ http://209.133.208.194:1935/app/ana69s-channel/playlist.m3u8
 
 #EXTINF:-1 group-title="COLOMBIA",Caracol 
 http://iptvlatam.cf/hls/caracol/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Telecaribe 
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Señal Institucional 
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Telemedellin 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Cablenoticias 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 group-title="COLOMBIA",Señal Colombia 
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist.m3u8
 #EXTINF:-1 group-title="COLOMBIA",Canal Capital 
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Telecafe 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Señal Institucional 
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
 #EXTINF:-1 group-title="COLOMBIA",Teleantioquia 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Telemedellin 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA", Canal Tro 
-http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Cablenoticias 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",El Tiempo 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Telecafe 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 
 #EXTINF:0,-Latinos-
 

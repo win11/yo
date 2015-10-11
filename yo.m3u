@@ -28,10 +28,6 @@ http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/etQtx5KT_zpstogljfsx.jpg" group-title="REGIONALES",Holvoet Copiapo 
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv2%20ch_zpsvxrqo16a.gif" group-title="REGIONALES",Canal 2 Valle Tv San Felipe 
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/quinta_zpsq2eyxc4q.jpg" group-title="REGIONALES",Quinta Vision Viña del Mar 
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/poster_220x220-2_zps7nl8hlrq.jpg" group-title="REGIONALES",Independencia TV Santiago
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal2sanantonio_zps6pv4teny.jpg" group-title="REGIONALES",Canal 2 San Antonio 
@@ -50,10 +46,6 @@ http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-tv4lota_zps1hymhpeo.png" group-title="REGIONALES",Tv 4 Lota 
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal5_tv_cl_zpspjf2mya8.png" group-title="REGIONALES",Canal 5 Puerto Montt 
-http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logo_Telesur_Aysen_TV_zpsdr61zfpo.jpg" group-title="REGIONALES",Aysen Tv Puerto Aysen 
-http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/itv_patagonia_cl_zps3yvz2vwm.png" group-title="REGIONALES",ITV Punta Arenas 
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_pinguino_cl_zpsvhkttrc0.png" group-title="REGIONALES",El Pinguino Tv Punta Arenas 
@@ -71,22 +63,18 @@ https://www.youtube.com/watch?v=4rmsEf46f7I
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="ARGENTINA",Canal 2 Misiones 
 http://190.57.237.214/live/canal.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="ARGENTINA",Canal 9 Paraná 
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_26_ar_zpsnrfnzfhv.png" group-title="ARGENTINA",Canal 26 
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",Canal 9 
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="ARGENTINA",TN 24 Horas 1 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="ARGENTINA",TN 
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="ARGENTINA",TN 24 Horas 2 
-http://200.42.92.142/live/tnhd1/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="ARGENTINA",C5N 
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/photo_zpsf6miblsk.jpg" group-title="ARGENTINA",Canal 2 Telpin 
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="ARGENTINA",Canal 9 Paraná 
-http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemax_zpsfwgioj0v.png" group-title="ARGENTINA", Telemax 
-http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/magazine_zpslhekhagb.png" group-title="ARGENTINA",Magazine 
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ARGENTINA",360 Tv 
@@ -111,16 +99,12 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 group-title="MEXICO",Canal de las Estrellas Internacional 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
-#EXTINF:-1 group-title="MEXICO",Telemundo 
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="MEXICO",Univision 1 
-http://209.133.208.26:1935/app/turbomax-hds-channel/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Univision 2 
+#EXTINF:-1 group-title="MEXICO",Univision  
 http://209.133.208.202:1935/app/turbomax-hds-channel/chunklist_w4270402.m3u8
-#EXTINF:-1 group-title="MEXICO",Mundomax 
-http://209.133.208.194:1935/app/ana69s-channel/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO",Azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 group-title="MEXICO",Telemundo 
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 group-title="MEXICO",Azteca Noticias 
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
 #EXTINF:-1 group-title="MEXICO",Gala Tv 
@@ -131,16 +115,10 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 group-title="MEXICO",Multimedios Tv 
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca 7 Monterrey 
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Telemax 
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 7 Mazatlan 
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 #EXTINF:-1 group-title="MEXICO",Gala Tv Cancún 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal 2 Obregon 
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
+#EXTINF:-1 group-title="MEXICO",Mundomax 
+http://209.133.208.194:1935/app/ana69s-channel/playlist.m3u8
 
 #EXTINF:0,-Colombia-
 

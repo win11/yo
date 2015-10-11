@@ -82,97 +82,92 @@ http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 
 #EXTINF:0,-Peru-
 
-#EXTINF:-1 group-title="PERU",Latina Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="PERU",Latina Tv 
 https://www.youtube.com/watch?v=4zrg6XLcF2c
-#EXTINF:-1 group-title="PERU",Andina Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="PERU",Andina Tv 
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
-#EXTINF:-1 group-title="PERU",America Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="PERU",America Tv 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-
-#EXTINF:0,-Ecuador-
-
-#EXTINF:-1 group-title="ECUADOR",Tv Satelital   
-http://181.198.10.23:1935/live/mystream/playlist.m3u8
 
 #EXTINF:0,-Colombia-
 
-#EXTINF:-1 group-title="COLOMBIA",Caracol 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="COLOMBIA",Caracol 
 http://iptvlatam.cf/hls/caracol/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Telemedellin 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="COLOMBIA",Telemedellin 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Cablenoticias 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="COLOMBIA",Cablenoticias 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 
 #EXTINF:0,-Mexico-
 
-#EXTINF:-1 group-title="MEXICO",Canal de las Estrellas 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Canal de las Estrellas 
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1 group-title="MEXICO",Canal de las Estrellas Internacional 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Canal de las Estrellas Internacional 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
-#EXTINF:-1 group-title="MEXICO",Univision  
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Univision  
 http://209.133.208.202:1935/app/turbomax-hds-channel/chunklist_w4270402.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca 13 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 group-title="MEXICO",Telemundo 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Telemundo 
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="MEXICO",Azteca Noticias 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Azteca Noticias 
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
-#EXTINF:-1 group-title="MEXICO",Gala Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Gala Tv 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
-#EXTINF:-1 group-title="MEXICO",Proyecto 40 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Proyecto 40 
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-#EXTINF:-1 group-title="MEXICO",Foro Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Foro Tv 
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1 group-title="MEXICO",Multimedios Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Multimedios Tv 
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-#EXTINF:-1 group-title="MEXICO",Gala Tv Cancún 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MEXICO",Gala Tv Cancún 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 
 #EXTINF:0,-Estilo y tendencias-
 
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mega 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",Miami Tv España
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",Lifedesing 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Cosmovision 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",Cosmovision 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Une Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",Une Tv 
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Trendy Channel 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ESTILO Y TENDENCIAS",Trendy Channel 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 1
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="DEPORTES",Bein Sports 1
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 2
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="DEPORTES",Bein Sports 2
 http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
 
 #EXTINF:0,-Musica-
 
-#EXTINF:-1 group-title="MUSICA",Radio Carolina 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Radio Carolina 
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Mi Musica 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Mi Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Ultra Fiesta 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Ultra Fiesta 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
-#EXTINF:-1 group-title="MUSICA",Tigo Musica 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Cantinazo 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Cantinazo 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Heart Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Heart Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="MUSICA",Capital Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Capital Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:-1 group-title="MUSICA",Dream 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Dream 
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Amazing Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Amazing Tv 
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:0 group-title="MUSICA",Virgin Tv 
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="MUSICA",Virgin Tv 
 http://wow01.105.net/live/virgin1/.m3u8

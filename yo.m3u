@@ -82,16 +82,12 @@ http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 
 #EXTINF:0,-Peru-
 
-#EXTINF:-1 group-title="PERU",Andina Tv 
-http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:-1 group-title="PERU",Latina Tv 
 https://www.youtube.com/watch?v=4zrg6XLcF2c
+#EXTINF:-1 group-title="PERU",Andina Tv 
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:-1 group-title="PERU",America Tv 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="PERU", RBC Satelital 
-rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
-#EXTINF:-1 group-title="PERU", Peru Tv 
-http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
 
 #EXTINF:0,-Mexico-
 

@@ -155,7 +155,7 @@ http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/radio%20carolina_zpssk8ekfb1.png" group-title="MUSICA",Radio Carolina 
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
-tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/LOGO%20SOY_zpsisgggxcc.png" group-title="MUSICA",Soy Fm Tv Bolivia
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/LOGO%20SOY_zpsisgggxcc.png" group-title="MUSICA",Soy Fm Tv Bolivia
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-mimusica_zpsvx6th2vd.png" group-title="MUSICA",Mi Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
@@ -167,9 +167,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Heart_TV_logo_zpscifvnjwb.png" group-title="MUSICA",Heart Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-Retro_Music_Tv_zps8mtkvbro.png" group-title="MUSICA", Retro Tv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-Retro_Music_Tv_zps8mtkvbro.png" group-title="MUSICA", Retro Tv
 rtmp://stream.mediawork.cz/retrotv/retrotvHQ1
-tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Vh1_classic_zpsst8vnqpm.png" group-title="MUSICA", VH1 Classic 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Vh1_classic_zpsst8vnqpm.png" group-title="MUSICA", VH1 Classic 
 http://bit.do/bkWDb
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Capital_TV_logo_zps1ig6vz5n.png" group-title="MUSICA",Capital Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
@@ -179,7 +179,7 @@ http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/New-Virgin-Media-Logo_zps6v8zieih.jpg" group-title="MUSICA",Virgin Tv 
 http://wow01.105.net/live/virgin1/.m3u8
-tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/20101226190303NRJ12_zpseu6w5umq.png" group-title="MUSICA", NRJ 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/20101226190303NRJ12_zpseu6w5umq.png" group-title="MUSICA", NRJ 
 http://rtmp.infomaniak.ch/livecast/energytv/playlist.m3u8
-tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-indieslive_zps77kznyp0.png" group-title="MUSICA", Indies Live 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-indieslive_zps77kznyp0.png" group-title="MUSICA", Indies Live 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8

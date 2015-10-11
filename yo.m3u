@@ -89,6 +89,20 @@ http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/pla
 #EXTINF:-1 group-title="PERU",America Tv 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 
+#EXTINF:0,-Ecuador-
+
+#EXTINF:-1 group-title="ECUADOR",Tv Satelital   
+http://181.198.10.23:1935/live/mystream/playlist.m3u8
+
+#EXTINF:0,-Colombia-
+
+#EXTINF:-1 group-title="COLOMBIA",Caracol 
+http://iptvlatam.cf/hls/caracol/playlist.m3u8
+#EXTINF:-1 group-title="COLOMBIA",Telemedellin 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Cablenoticias 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+
 #EXTINF:0,-Mexico-
 
 #EXTINF:-1 group-title="MEXICO",Canal de las Estrellas 
@@ -113,32 +127,6 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 #EXTINF:-1 group-title="MEXICO",Gala Tv Cancún 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-
-#EXTINF:0,-Colombia-
-
-#EXTINF:-1 group-title="COLOMBIA",Caracol 
-http://iptvlatam.cf/hls/caracol/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Telemedellin 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Cablenoticias 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Señal Colombia 
-http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Canal Capital 
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1 group-title="COLOMBIA",Señal Institucional 
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Teleantioquia 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Telecafe 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-
-#EXTINF:0,-Latinos-
-
-#EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
-http://181.198.10.23:1935/live/mystream/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Telesur VENEZUELA
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
 
 #EXTINF:0,-Estilo y tendencias-
 

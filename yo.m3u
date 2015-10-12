@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=4rmsEf46f7I
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_7_ar_mendoza_zpsjwt4zilq.png" group-title="ARGENTINA",Canal 7 Mendoza
 https://www.youtube.com/watch?v=cdy85qJH_Ds
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+http://stream.eltrecetv.com.ar/live13/13tv/13tv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="ARGENTINA",Canal 2 Misiones 
 http://190.57.237.214/live/canal.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="ARGENTINA",Canal 9 Paraná 
@@ -70,7 +70,7 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",Canal 9 
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="ARGENTINA",TN 
-rtsp://stream.tn.com.ar/live/tnhd1
+http://200.42.92.142/live/tnhd1/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="ARGENTINA",C5N 
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/photo_zpsf6miblsk.jpg" group-title="ARGENTINA",Canal 2 Telpin 
@@ -156,3 +156,7 @@ Telemax
 http://198.178.123.170:1935/app/ana69s-channel/playlist.m3u8
 Univision
 http://109.169.48.23:1935/app/turbomax-hds-channel/playlist.m3u8
+el trece argentina
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+tn argentina
+rtsp://stream.tn.com.ar/live/tnhd1

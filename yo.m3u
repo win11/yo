@@ -59,6 +59,8 @@ http://69.164.193.177:1935/live/myStream/playlist.m3u8
 https://www.youtube.com/watch?v=Hytby2q7c0c
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america24_zpsw8zhmeap.png" group-title="ARGENTINA",A24
 https://www.youtube.com/watch?v=4rmsEf46f7I
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_7_ar_mendoza_zpsjwt4zilq.png" group-title="ARGENTINA",Canal 7 Mendoza
+https://www.youtube.com/watch?v=cdy85qJH_Ds
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="ARGENTINA",Canal 2 Misiones 
@@ -122,25 +124,6 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/multimedios_tv_zpsgw1mtkzz.png" group-title="MEXICO",Multimedios Tv 
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-
-#EXTINF:0,-Estilo y tendencias-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/MEGA_zpshdpgggua.png" group-title="ESTILO Y TENDENCIAS",Mega 
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/miamitvlogoiptvsat---Copy_zps31pixgh9.png" group-title="ESTILO Y TENDENCIAS",Miami Tv España
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/v_mas_tv_co_zpse3gay9xn.png" group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/life_design_tv_zpsr2fpkas2.png" group-title="ESTILO Y TENDENCIAS",Lifedesing 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo3d_zpsakhksl9c.png" group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-cosmovision_zpshckniupi.png" group-title="ESTILO Y TENDENCIAS",Cosmovision 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo_une_zpsqshssvec.png" group-title="ESTILO Y TENDENCIAS",Une Tv 
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/TC_LOGO_zpsc6o4wa49.png" group-title="ESTILO Y TENDENCIAS",Trendy Channel 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
 #EXTINF:0,-Deportes-
 

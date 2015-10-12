@@ -126,7 +126,8 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
 #EXTINF:0,-Deportes-
-
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/be_in_sports_espanol_zpsy8pumlwq.png" group-title="DEPORTES",Win Sports 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/be_in_sports_espanol_zpsy8pumlwq.png" group-title="DEPORTES",Bein Sports 1
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/be_in_sports_espanol_zpsy8pumlwq.png" group-title="DEPORTES",Bein Sports 2
@@ -134,7 +135,7 @@ http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef
 
 #EXTINF:0,-Musica-
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/radio%20carolina_zpssk8ekfb1.png" group-title="MUSICA",Radio Carolina 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="MUSICA",Radio Carolina 
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/LOGO%20SOY_zpsisgggxcc.png" group-title="MUSICA",Soy Fm Tv 
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8

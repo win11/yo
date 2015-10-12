@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=4rmsEf46f7I
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_7_ar_mendoza_zpsjwt4zilq.png" group-title="ARGENTINA",Canal 7 Mendoza
 https://www.youtube.com/watch?v=cdy85qJH_Ds
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
-http://stream.eltrecetv.com.ar/live13/13tv/13tv1/playlist.m3u8
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="ARGENTINA",Canal 2 Misiones 
 http://190.57.237.214/live/canal.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="ARGENTINA",Canal 9 Paraná 
@@ -157,6 +157,6 @@ http://198.178.123.170:1935/app/ana69s-channel/playlist.m3u8
 Univision
 http://109.169.48.23:1935/app/turbomax-hds-channel/playlist.m3u8
 el trece argentina
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+http://stream.eltrecetv.com.ar/live13/13tv/13tv1/playlist.m3u8
 tn argentina
 rtsp://stream.tn.com.ar/live/tnhd1

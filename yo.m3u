@@ -147,6 +147,86 @@ http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-indieslive_zps77kznyp0.png" group-title="MUSICA", Indies Live 
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 
+ #EXTINF:0 tvg-name="13", 13 
+ http://o12team.tk:8080/13/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="DcineEspanol", DcineEspanol 
+ http://o12team.tk:8080/DcineEspanol/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="amc", amc 
+ http://o12team.tk:8080/amc/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="axn", axn 
+ http://o12team.tk:8080/axn/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="calle13", calle13 
+ http://o12team.tk:8080/calle13/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+Dcine", canal+Dcine 
+ http://o12team.tk:8080/canal+Dcine/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+deportes", canal+deportes 
+ http://o12team.tk:8080/canal+deportes/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+estrenos", canal+estrenos 
+ http://o12team.tk:8080/canal+estrenos/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+futbol", canal+futbol 
+ http://o12team.tk:8080/canal+futbol/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+liga", canal+liga 
+ http://o12team.tk:8080/canal+liga/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+liga2", canal+liga2 
+ http://o12team.tk:8080/canal+liga2/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+multifutbol2", canal+multifutbol2 
+ http://o12team.tk:8080/canal+multifutbol2/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+partidazo", canal+partidazo 
+ http://o12team.tk:8080/canal+partidazo/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal+series_extra", canal+series_extra 
+ http://o12team.tk:8080/canal+series_extra/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="canal,xtra", canal,xtra 
+ http://o12team.tk:8080/canal+xtra/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="caracolhd", caracolhd 
+ http://o12team.tk:8080/caracolhd/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="ci", ci 
+ http://o12team.tk:8080/ci/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="citytv", citytv 
+ http://o12team.tk:8080/citytv/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="cosmo", cosmo 
+ http://o12team.tk:8080/cosmo/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="discomax", discomax 
+ http://o12team.tk:8080/discomax/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="discoverych", discoverych 
+ http://o12team.tk:8080/discoverychspa/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="divinity", divinity 
+ http://o12team.tk:8080/divinity/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="energy", energy 
+ http://o12team.tk:8080/energy/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="f1", f1 
+ http://o12team.tk:8080/f1/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="fdf", fdf 
+ http://o12team.tk:8080/fdf/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="fox", fox 
+ http://o12team.tk:8080/fox/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="foxlife", foxlife 
+ http://o12team.tk:8080/foxlife/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="garage", garage 
+ http://o12team.tk:8080/garage/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="historia", historia 
+ http://o12team.tk:8080/historia/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="hollywood", hollywood 
+ http://o12team.tk:8080/hollywood/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="iberalia", iberalia 
+ http://o12team.tk:8080/iberalia/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="mega", mega 
+ http://o12team.tk:8080/mega/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="natgeo", natgeo 
+ http://o12team.tk:8080/natgeo/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="odisea", odisea 
+ http://o12team.tk:8080/odisea/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="paramount", paramount 
+ http://o12team.tk:8080/paramount/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="rcnhd", rcnhd 
+ http://o12team.tk:8080/rcnhd/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="sundance", sundance 
+ http://o12team.tk:8080/sundance/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="teledeporte", teledeporte 
+ http://o12team.tk:8080/teledeporte/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="vh1", vh1 http://o12team.tk:8080/vh1/mono.m3u8?token=EBm66dddT2 
+ #EXTINF:0 tvg-name="win", win 
+ http://o12team.tk:8080/win/mono.m3u8?token=EBm66dddT2
+
 canales de reemplazo.
 Univision
 http://198.178.123.170:1935/app/univision1xchivas_69s-channel/playlist.m3u8

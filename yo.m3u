@@ -110,9 +110,9 @@ http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedi
 
 #EXTINF:0,-Colombia-
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/R1t4Q_zpszmrpf3zo.png" group-title="COLOMBIA",Caracol 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/gallery_1163_2_2085_zpsxcmktk80.png" group-title="COLOMBIA",Caracol 
 http://o12team.tk:8080/caracolhd/mono.m3u8?token=EBm66dddT2 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/R1t4Q_zpszmrpf3zo.png" group-title="COLOMBIA",Caracol 2
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Caracol_Televisioacuten_HD_2_logo.svg_zpsw8uzescx.png" group-title="COLOMBIA",Caracol 2
 http://o12team.tk:8080/caracolhd2/mono.m3u8?token=EBm66dddT2 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",RCN
 http://o12team.tk:8080/rcnhd/mono.m3u8?token=EBm66dddT2

@@ -53,6 +53,8 @@ https://www.youtube.com/watch?v=Hytby2q7c0c
 https://www.youtube.com/watch?v=4rmsEf46f7I
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_7_ar_mendoza_zpsjwt4zilq.png" group-title="ARGENTINA",Canal 7 Mendoza
 https://www.youtube.com/watch?v=cdy85qJH_Ds
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/TV_Puacuteblica_zpsrztvazm5.png" group-title="ARGENTINA",Tv Publica 
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="ARGENTINA",Canal 2 Misiones 

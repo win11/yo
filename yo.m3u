@@ -99,6 +99,8 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/azteca_noticias_mx_zps5ekbsijn.png" group-title="MEXICO",Azteca Noticias 
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/unimas_zpsxwyktaco.png" group-title="MEXICO",Unimas
+http://109.169.48.23:1935/app/turbomax01s-channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/gala_tv_mx_zpsssbat8kc.png" group-title="MEXICO",Gala Tv 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Proyecto_40_logo_zpsewq84op2.png" group-title="MEXICO",Proyecto 40 

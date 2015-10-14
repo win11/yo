@@ -110,12 +110,15 @@ http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedi
 
 #EXTINF:0,-Colombia-
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/R1t4Q_zpszmrpf3zo.png" group-title="COLOMBIA",Caracol
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/R1t4Q_zpszmrpf3zo.png" group-title="COLOMBIA",Caracol 
 http://o12team.tk:8080/caracolhd/mono.m3u8?token=EBm66dddT2 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/R1t4Q_zpszmrpf3zo.png" group-title="COLOMBIA",Caracol 2
+http://o12team.tk:8080/caracolhd2/mono.m3u8?token=EBm66dddT2 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",RCN
 http://o12team.tk:8080/rcnhd/mono.m3u8?token=EBm66dddT2
 
 #EXTINF:0,-Deportes-
+
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/be_in_sports_espanol_zpsy8pumlwq.png" group-title="DEPORTES",Bein Sports 

@@ -120,6 +120,8 @@ http://o12team.tk:8080/rcnhd/mono.m3u8?token=EBm66dddT2
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/be_in_sports_espanol_zpsy8pumlwq.png" group-title="DEPORTES",Bein Sports 
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 
 #EXTINF:0,-Musica-
 

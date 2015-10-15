@@ -80,6 +80,8 @@ https://www.youtube.com/watch?v=4zrg6XLcF2c
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dragon-tv-hd_zps88l2narb.png" group-title="PERU",America Tv 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dragon-tv-hd_zps88l2narb.png" group-title="PERU",UCV Satelital
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
 #EXTINF:0,-Mexico-
 
@@ -114,6 +116,8 @@ http://o12team.tk:8080/caracolhd/mono.m3u8?token=EBm66dddT2
 http://o12team.tk:8080/caracolhd2/mono.m3u8?token=EBm66dddT2 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",RCN
 http://o12team.tk:8080/rcnhd/mono.m3u8?token=EBm66dddT2
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",Canal Uno
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
 
 #EXTINF:0,-Deportes-
 

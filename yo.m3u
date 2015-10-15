@@ -69,8 +69,6 @@ http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 http://200.42.92.142/live/tnhd1/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="ARGENTINA",C5N 
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/photo_zpsf6miblsk.jpg" group-title="ARGENTINA",Canal 2 Telpin 
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/magazine_zpslhekhagb.png" group-title="ARGENTINA",Magazine 
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="ARGENTINA",360 Tv 
@@ -140,8 +138,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/landing-pitbull-logo-tigo-music_zpsqtqnb6uh.png" group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/CTV_LOGO_zps7hpwaewm.png" group-title="MUSICA",Cantinazo 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Heart_TV_logo_zpscifvnjwb.png" group-title="MUSICA",Heart Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Vh1_classic_zpsst8vnqpm.png" group-title="MUSICA", VH1 Classic 

@@ -127,6 +127,12 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canalfutbol_zpsxlsoz0ci.png" group-title="DEPORTES",Canal+ Futbol
+http://o12team.tk:8080/canal+futbol/mono.m3u8?token=EBm66dddT2
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canalliga_zpsfxahdwok.png" group-title="DEPORTES",Canal+ Liga 
+http://o12team.tk:8080/canal+liga/mono.m3u8?token=EBm66dddT2
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canapartidazo_zps4irxdxvj.png" group-title="DEPORTES",Canal+ Partidazo 
+http://o12team.tk:8080/canal+partidazo/mono.m3u8?token=EBm66dddT2
 
 #EXTINF:0,-Musica-
 

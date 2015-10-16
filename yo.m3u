@@ -88,7 +88,7 @@ http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_estrellas_lam_zpsqvy9egdu.png" group-title="MEXICO",Canal de las Estrellas 
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bueno_zpsenyxw8de.png" group-title="MEXICO",Univision  
-http://o12team.tk:8080/univision/index.m3u8
+http://109.169.48.23:1935/app/turbomax-hds-channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" group-title="MEXICO",Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/azteca_trece_zpsepy7lea4.png" group-title="MEXICO",Azteca 13 

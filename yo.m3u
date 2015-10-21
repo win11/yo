@@ -57,6 +57,8 @@ https://www.youtube.com/watch?v=cdy85qJH_Ds
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="ARGENTINA",Canal 2 Misiones
+http://190.57.237.230/live/canal2.m3u8?ID=21.821294800974943
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="ARGENTINA",Canal 9 Paraná 
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/1i3qjKB_zpsmkcrzqgq.png" group-title="ARGENTINA",Canal 26 

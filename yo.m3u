@@ -127,7 +127,7 @@ http://ecuadortv_livehd-lh.akamaihd.net/i/00gmbhwfy_1@323284/master.m3u8
 #EXTINF:0,-Deportes-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports 
-http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
+http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canalliga_zpsfxahdwok.png" group-title="DEPORTES",Canal+ Liga

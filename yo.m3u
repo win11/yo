@@ -78,12 +78,12 @@ http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 
 #EXTINF:0,-Peru-
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/latina_pe_zps5evuplhq.png" group-title="PERU",Latina Tv 
-https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/gallery_1163_2_34091_zpssseoh1n1.png" group-title="PERU",Andina Tv 
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dragon-tv-hd_zps88l2narb.png" group-title="PERU",America Tv 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/latina_pe_zps5evuplhq.png" group-title="PERU",Latina Tv 
+https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucvsa_zpsucuc3hvt.png" group-title="PERU",UCV Satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
@@ -93,16 +93,16 @@ http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bueno_zpsenyxw8de.png" group-title="MEXICO",Univision  
 http://109.169.48.23:1935/app/turbomax-hds-channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/unimas_zpsxwyktaco.png" group-title="MEXICO",Unimas
+http://109.169.48.23:1935/app/turbomax01s-channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemundo-nuevo-logo_zpswjzw2tpv.png" group-title="MEXICO",Telemundo 
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" group-title="MEXICO",Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/azteca_trece_zpsepy7lea4.png" group-title="MEXICO",Azteca 13 
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemundo-nuevo-logo_zpswjzw2tpv.png" group-title="MEXICO",Telemundo 
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/azteca_noticias_mx_zps5ekbsijn.png" group-title="MEXICO",Azteca Noticias 
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/unimas_zpsxwyktaco.png" group-title="MEXICO",Unimas
-http://109.169.48.23:1935/app/turbomax01s-channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logoGalavisionFooter_zpspddbkywh.png" group-title="MEXICO",Gala Tv 
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Proyecto_40_logo_zpsewq84op2.png" group-title="MEXICO",Proyecto 40 

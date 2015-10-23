@@ -49,6 +49,8 @@ http://69.164.193.177:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america_ar_zpshwaahbon.png" group-title="ARGENTINA",America Tv 
 https://www.youtube.com/watch?v=Hytby2q7c0c
+
+http://o12team.tk:8080/telefehd/index.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america24_zpsw8zhmeap.png" group-title="ARGENTINA",A24
 https://www.youtube.com/watch?v=4rmsEf46f7I
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_7_ar_mendoza_zpsjwt4zilq.png" group-title="ARGENTINA",Canal 7 Mendoza

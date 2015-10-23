@@ -130,7 +130,7 @@ http://ecuadortv_livehd-lh.akamaihd.net/i/00gmbhwfy_1@323284/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tyc-sports-tv_zps98dncr5p.png" group-title="DEPORTES",T y C Sports 
 http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports Ñ 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/be_in_sports_espanol_zpsy8pumlwq.png" group-title="DEPORTES",Bein Sports Ñ 
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports 
 http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
@@ -156,14 +156,10 @@ http://wcm777.la/mariocs.php?canal=ESPN3LASD&cm=3806&f=
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",FOX SPORTS 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logo%20Fox%20Sports333_zpse73teenj.png" group-title="DEPORTES",FOX SPORTS 3
-http://wcm777.la/mariocs.php?canal=FoxSports3SD&cm=445&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logo_TDN_zpsgyjgk24j.png" group-title="DEPORTES",TDN
 http://wcm777.la/mariocs.php?canal=TDNMXLA&cm=1059&f= 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Univision_tdn_1_zpstqb0tund.png" group-title="DEPORTES",TDN Univision
-http://wcm777.la/mariocs.php?canal=UnivisionTDNLA&cm=1483&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Sin%20tiacutetulo-1_zpsw8knawug.png" group-title="DEPORTES",Planeta Futbol
-http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&cm=1477&f=mariocs.m3u8
+http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&cm=1477&f=
 
 #EXTINF:0,-Musica-
 

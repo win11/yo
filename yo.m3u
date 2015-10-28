@@ -94,7 +94,7 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bueno_zpsenyxw8de.png" group-title="MEXICO",Univision  
 http://109.169.48.23:1935/app/turbomax-hds-channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/unimas_zpsxwyktaco.png" group-title="MEXICO",Unimas
-http://wcm777.la/mariocs.php?canal=UniMasUS&cm=3602&f=
+http://stkp.16mb.com/stk.php?id=3602&f=.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemundo-nuevo-logo_zpswjzw2tpv.png" group-title="MEXICO",Telemundo 
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" group-title="MEXICO",Azteca 7
@@ -151,15 +151,15 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn3_zpsjplrptit.png" group-title="DEPORTES",ESPN 3
-http://wcm777.la/mariocs.php?canal=ESPN3LASD&cm=3806&f= 
+http://stkp.16mb.com/stk.php?id=3806&f=.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",FOX SPORTS
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",FOX SPORTS 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logo_TDN_zpsgyjgk24j.png" group-title="DEPORTES",TDN
-http://wcm777.la/mariocs.php?canal=TDNMXLA&cm=1059&f= 
+http://stkp.16mb.com/stk.php?id=1059&f=.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Sin%20tiacutetulo-1_zpsw8knawug.png" group-title="DEPORTES",Planeta Futbol
-http://wcm777.la/mariocs.php?canal=PlanetaFutbolLA&cm=1477&f=
+http://stkp.16mb.com/stk.php?id=1477&f=.m3u8
 
 #EXTINF:0,-Musica-
 

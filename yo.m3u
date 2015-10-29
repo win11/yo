@@ -83,6 +83,8 @@ http://o12team.tk:8080/caracolhd/mono.m3u8?token=EBm66dddT2
 http://o12team.tk:8080/caracolhd2/mono.m3u8?token=EBm66dddT2 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",RCN
 http://o12team.tk:8080/rcnhd/mono.m3u8?token=EBm66dddT2
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/rcn2_zpsfsrmqrvd.png" group-title="COLOMBIA",RCN 2
+http://o12team.tk:8080/rcnhd2/index.m3u8
 
 #EXTINF:0,-Mexico-
 

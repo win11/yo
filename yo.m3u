@@ -119,24 +119,16 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 http://o12team.tk:8080/canal+liga/mono.m3u8?token=EBm66dddT2
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espnhd_zpsn5u9flvv.png" group-title="DEPORTES",ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn_logo_zpsjiv4cfgy.png" group-title="DEPORTES",ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/EHD_290x170_zpsr3scldg3.png" group-title="DEPORTES",ESPN 2 HD
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn3_zpsjplrptit.png" group-title="DEPORTES",ESPN 3
-http://stkp.16mb.com/stk.php?id=3806&f=.m3u8
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logo_TDN_zpsgyjgk24j.png" group-title="DEPORTES",TDN
-http://stkp.16mb.com/stk.php?id=1059&f=.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Sin%20tiacutetulo-1_zpsw8knawug.png" group-title="DEPORTES",Planeta Futbol
-http://stkp.16mb.com/stk.php?id=1477&f=.m3u8
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:0,-Musica-
 

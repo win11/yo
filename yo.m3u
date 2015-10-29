@@ -44,7 +44,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america_ar_zpshwaahbon.png" group-title="ARGENTINA",America Tv 
 https://www.youtube.com/watch?v=Hytby2q7c0c
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/telefe_zpsbwqtx4ad.png" group-title="ARGENTINA",Telefe 
-http://o12team.tk:8080/telefehd/index.m3u8
+http://iptvlatam.cf/hls/telefe2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/TV_Puacuteblica_zpsrztvazm5.png" group-title="ARGENTINA",Tv Publica 
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 

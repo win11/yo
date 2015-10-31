@@ -121,13 +121,11 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 http://o12team.tk:8080/canal+liga/mono.m3u8?token=EBm66dddT2
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn_logo_zpsjiv4cfgy.png" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn_logo_zpsjiv4cfgy.png" group-title="DEPORTES",ESPN 1
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/EHD_290x170_zpsr3scldg3.png" group-title="DEPORTES",ESPN 2 HD
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",FOX SPORTS
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts

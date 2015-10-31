@@ -127,10 +127,12 @@ http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",FOX SPORTS
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",Fox Sports
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",FOX SPORTS 2
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Fox Sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",AYM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 
 #EXTINF:0,-Musica-
 

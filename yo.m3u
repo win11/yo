@@ -136,21 +136,21 @@ http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://mitv.esy.es/stk.php?id=2487&f=
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 2
 http://mitv.esy.es/stk.php?id=301&f= 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn03_zpsrwy7xrfc.png" group-title="DEPORTES",ESPN 3
 http://mitv.esy.es/stk.php?id=3806&f= 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",Fox Sports
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",Fox Sports 1
 http://mitv.esy.es/stk.php?id=2505&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Fox Sports 2
 http://mitv.esy.es/stk.php?id=475&f= 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Fox Sports 3
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox3_zps8c8plknc.png" group-title="DEPORTES",Fox Sports 3
 http://mitv.esy.es/stk.php?id=445&f= 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Planeta Futbol
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Sin%20tiacutetulo-1_zpsw8knawug.png" group-title="DEPORTES",Planeta Futbol
 http://mitv.esy.es/stk.php?id=1477&f= 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",AYM Sports
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/aym_zpsjsw8hger.png" group-title="DEPORTES",AYM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1,TDN
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logo_TDN_zpsgyjgk24j.png" group-title="DEPORTES",TDN
 http://mitv.esy.es/stk.php?id=1059&f=
- #EXTINF:-1,TDN
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Univision_tdn_1_zpstqb0tund.png" group-title="DEPORTES",Univision TDN
 http://mitv.esy.es/stk.php?id=1483&f=
 
 #EXTINF:0,-Musica-
@@ -159,15 +159,15 @@ http://mitv.esy.es/stk.php?id=1483&f=
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/LOGO%20SOY_zpsisgggxcc.png" group-title="MUSICA",Soy Fm Tv 
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
-#EXTINF:-1, PortalFoxMix TV
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/32679_zpskreromvk.png" group-title="MUSICA",PortalFoxMix TV
 http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-mimusica_zpsvx6th2vd.png" group-title="MUSICA",Mi Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tigo_zps9u7l0tan.png" group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1,K Music
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/kmusic_zpswuhi2trv.png" group-title="MUSICA",K Music
 http://mitv.esy.es/stk.php?id=3467&f=
-#EXTINF:-1,HTV
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/htv_zpsn8wneaso.png" group-title="MUSICA",HTV
 http://mitv.esy.es/stk.php?id=341&f=
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/1328367291_zpsnk7smybe.png" group-title="MUSICA",Vh1 
 http://mitv.esy.es/stk.php?id=483&f=

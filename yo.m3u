@@ -26,7 +26,7 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valparaiso y VIña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/inde_zpsxkru671e.png" group-title="REGIONALES",Independencia TV Santiago
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/inde_zpsxkru671e.png" group-title="REGIONALES",Independencia Tv Santiago
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logotipo_TVO_San_Vicente_zpslsws5ap0.png" group-title="REGIONALES",TVO San Vicente de tagua Tagua
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8

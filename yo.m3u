@@ -102,7 +102,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_estrellas_lam_zpsqvy9egdu.png" group-title="MEXICO",Canal de las Estrellas 
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bueno_zpsenyxw8de.png" group-title="MEXICO",Univision  
-http://109.169.48.23:1935/app/turbomax-hds-channel/playlist.m3u8
+http://mitv.esy.es/stk.php?id=6299&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemundo-nuevo-logo_zpswjzw2tpv.png" group-title="MEXICO",Telemundo 
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" group-title="MEXICO",Azteca 7
@@ -133,15 +133,17 @@ http://o12team.tk:8080/canal+liga/mono.m3u8?token=EBm66dddT2
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn_logo_zpsjiv4cfgy.png" group-title="DEPORTES",ESPN 1
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://mitv.esy.es/stk.php?id=2487&f=
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://mitv.esy.es/stk.php?id=301&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/espn2-logo-d795_zpset5i4lh7.png" group-title="DEPORTES",ESPN 3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://mitv.esy.es/stk.php?id=3806&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fs-logo_zpst34qibsu.png" group-title="DEPORTES",Fox Sports
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://mitv.esy.es/stk.php?id=2505&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Fox Sports 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://mitv.esy.es/stk.php?id=475&f= 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Fox Sports 3
+http://mitv.esy.es/stk.php?id=445&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",AYM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 
@@ -157,8 +159,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/telehit-hd_zps5gjz5cyu.png" group-title="MUSICA",Telehits HD
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/1328367291_zpsnk7smybe.png" group-title="MUSICA",Vh1 HD
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/1328367291_zpsnk7smybe.png" group-title="MUSICA",Vh1 
+http://mitv.esy.es/stk.php?id=483&f=
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Ritmoson_Latino_zpsycvjrgur.png" group-title="MUSICA",Ritmoson
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bandamax-elemental-queretaro_zpsymroryfv.png" group-title="MUSICA",Bandamax
@@ -166,7 +168,7 @@ http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/heart_zps86mbd2bk.png" group-title="MUSICA",Heart Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/170px-VH1_Classic.svg_zpsa6tpqmgi.png" group-title="MUSICA",Vh1 Classic
-http://200.76.77.237/LIVE/H01/CANAL728/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+http://mitv.esy.es/stk.php?id=415&f=
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Capital_TV_logo_zps1ig6vz5n.png" group-title="MUSICA",Capital Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Dream_TV_logosu_zpsevw5lbw6.png" group-title="MUSICA",Dream 

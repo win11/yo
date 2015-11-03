@@ -144,8 +144,14 @@ http://mitv.esy.es/stk.php?id=2505&f=
 http://mitv.esy.es/stk.php?id=475&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Fox Sports 3
 http://mitv.esy.es/stk.php?id=445&f= 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",Planeta Futbol
+http://mitv.esy.es/stk.php?id=1477&f= 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/fox-sports-2_zpsigl5zbqe.png" group-title="DEPORTES",AYM Sports
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1,TDN
+http://mitv.esy.es/stk.php?id=1059&f=
+ #EXTINF:-1,TDN
+http://mitv.esy.es/stk.php?id=1483&f=
 
 #EXTINF:0,-Musica-
 
@@ -153,14 +159,20 @@ http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/LOGO%20SOY_zpsisgggxcc.png" group-title="MUSICA",Soy Fm Tv 
 http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
+#EXTINF:-1, PortalFoxMix TV
+http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-mimusica_zpsvx6th2vd.png" group-title="MUSICA",Mi Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tigo_zps9u7l0tan.png" group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/telehit-hd_zps5gjz5cyu.png" group-title="MUSICA",Telehits HD
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1,K Music
+http://mitv.esy.es/stk.php?id=3467&f=
+#EXTINF:-1,HTV
+http://mitv.esy.es/stk.php?id=441&f=
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/1328367291_zpsnk7smybe.png" group-title="MUSICA",Vh1 
 http://mitv.esy.es/stk.php?id=483&f=
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/telehit-hd_zps5gjz5cyu.png" group-title="MUSICA",Telehits HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Ritmoson_Latino_zpsycvjrgur.png" group-title="MUSICA",Ritmoson
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bandamax-elemental-queretaro_zpsymroryfv.png" group-title="MUSICA",Bandamax

@@ -92,9 +92,9 @@ http://o12team.tk:8080/rcnhd2/index.m3u8
 
 #EXTINF:0,-Bolivia-
 
-#EXTINF:-1, Red Pat
+  #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/redpat_zpsemuhxjks.png" group-title="BOLIVIA",Red Pat
 http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
-#EXTINF:-1, Red Uno
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/reduno_zpsvvo8rl9f.png" group-title="BOLIVIA",Red Uno
 http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8
 
 #EXTINF:0,-Mexico-
